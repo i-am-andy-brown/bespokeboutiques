@@ -1,0 +1,248 @@
+msgid ""
+msgstr "MIME-Version: 1.0\n"
+
+#. Name.
+msgid "AccessPress Twitter Auto Post"
+msgstr ""
+
+#. Short description.
+msgid "Auto post your page, post, custom posts etc to your Twitter! Auto Tweet! Easy one time configuration!"
+msgstr ""
+
+#. Screenshot description.
+msgid "Backend Plugin Settings Section"
+msgstr ""
+
+#. Screenshot description.
+msgid "Backend Plugin Logs Section"
+msgstr ""
+
+#. Found in description header.
+msgid "Free Features:"
+msgstr ""
+
+#. Found in description header.
+msgid "Premium Features:"
+msgstr ""
+
+#. Found in description header.
+msgid "Premium Upgrade"
+msgstr ""
+
+#. Found in description header.
+msgid "Some Useful Links"
+msgstr ""
+
+#. Found in description list item.
+msgid "<strong>Configure your twitter account</strong> on which you want to auto post."
+msgstr ""
+
+#. Found in description list item.
+msgid "<strong>Define your content </strong> - configure which content you'd like to auto post (eg. posts,pages and custom post types, select post format, message format and category filters )"
+msgstr ""
+
+#. Found in description list item.
+msgid "<strong>Auto post on Twitter Account</strong>"
+msgstr ""
+
+#. Found in description list item.
+msgid "<strong>Auto post of new posts, custom post types (you can configure)</strong>"
+msgstr ""
+
+#. Found in description list item.
+msgid "<strong>Auto Post filtering as per post types  and taxonomies</strong> - you can enable auto post for certain post types or certain categories"
+msgstr ""
+
+#. Found in description list item.
+msgid "<strong>Logs available to track all your the auto posts to individual accounts</strong>"
+msgstr ""
+
+#. Found in description list item.
+msgid "<strong>Message format configuration ability</strong>"
+msgstr ""
+
+#. Found in description list item.
+msgid "<strong>Ability to publish a single wordpress post to twitter profile with just one publish click</strong>"
+msgstr ""
+
+#. Found in description list item.
+msgid "<strong>Ability to enable and disable auto post in post screen</strong> - you won't need to go to plugin settings to disable Auto Post"
+msgstr ""
+
+#. Found in description list item.
+msgid "<strong>Ability to shorten URL using <a href=\"http://bit.ly/\">Bitly API</a></strong> - you will just need bitly username and API Key."
+msgstr ""
+
+#. Found in description list item.
+msgid "<strong>Lightweight</strong> - Installs in seconds"
+msgstr ""
+
+#. Found in description list item.
+msgid "<strong>User friendly</strong> - very easy to configure and setup with all the necesssary step guidance on plugin settings page."
+msgstr ""
+
+#. Found in description list item.
+msgid "For premium upgrade, please go <a href=\"http://codecanyon.net/item/accesspress-social-auto-post/11752265?ref=AccessKeys\">here</a>"
+msgstr ""
+
+#. Found in description list item.
+msgid "<strong>Support Email</strong>: support@accesspressthemes.com"
+msgstr ""
+
+#. Found in description list item.
+msgid "<strong>Support Forum Link</strong>: http://accesspressthemes.com/support/"
+msgstr ""
+
+#. Found in description list item.
+msgid "<strong>Website Link</strong>: http://accesspressthemes.com/"
+msgstr ""
+
+#. Found in description list item.
+msgid "<strong>Youtube channel link</strong>: https://www.youtube.com/watch?v=TjZNcVG3fDE"
+msgstr ""
+
+#. Found in description list item.
+msgid "<strong>Facebook link</strong>: https://www.facebook.com/AccessPressThemes "
+msgstr ""
+
+#. Found in description paragraph.
+msgid ""
+"<strong>AccessPress Twitter Auto Post</strong> is a FREE twitter plugin for WordPress. You can use this to publish your site's posts,pages and custom post types to your twitter profile as soon as you hit the publish button in your site.\n"
+"The posting process is fully automated and as easy as 1, 2, 3!"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Note: PHP version 5.3 or greater required"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "For a easy installation guide checkout the Installation tab above."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "For complete information and documentation regarding plugin,please visit below links."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "<a href=\"https://accesspressthemes.com/wordpress-plugins/accesspress-twitter-auto-post/\">Plugin information</a>"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "<a href=\"https://accesspressthemes.com/documentation/documentation-plugin-instruction-accesspress-twitter-auto-post/\">Documentation</a>"
+msgstr ""
+
+#. Found in installation list item.
+msgid "Unzip accesspress-twitter-auto-post.zip"
+msgstr ""
+
+#. Found in installation list item.
+msgid "Upload all the files to the /wp-content/plugins/accesspress-twitter-auto-post"
+msgstr ""
+
+#. Found in installation list item.
+msgid "Activate the plugin through the 'Plugins' menu in WordPress."
+msgstr ""
+
+#. Found in installation list item.
+msgid "For customizing the plugin's settings, click on AccessPress Twitter Auto Post menu in Wordpress left admin menu."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Done some codecleanup"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Done some modifications in log section "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Updated how to use section "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Updated backend notes layout "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Updated text domain to match plugin's slug "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Updated few notes in backend"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Removed shortcodes from posting content"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Changed Menu icon"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added Upgrade Section"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Escaped output for the fields in plugin settings page"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Checked ABSPATH defined in all included files to prevent mannual URL browsing of file "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Loaded Font Awesome from CDN "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed small bug regarding html tags posting "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Checked API class exists through php to prevent conflict"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added a note for PHP version required "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed some typos"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed small issue for post types selection on settings page"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Plugin submitted to http://wordpress.org for review and approval"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Plugin approved and committed to http://wordpress.org repository"
+msgstr ""
+
+#. Found in faq header.
+msgid "What does this plugin do?"
+msgstr ""
+
+#. Found in faq header.
+msgid "How will auto post work?"
+msgstr ""
+
+#. Found in faq header.
+msgid "Where can I find the documentation for the plugin?"
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "This plugin provides the ability to to post your wordpress posts/pages/custom post types to your twitter account automatically."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "At first, you will need to get all the required credentials and setup the plugin in the plugin settings page and as soon as you configure the plugin completely, then whenever you will publish the post then it will be automatically posted to your twitter account as per your configuration."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "Once you install the plugin , you can check some general documentation about how to use the plugin in the \"How to use\" panel of the plugin's settings page."
+msgstr ""

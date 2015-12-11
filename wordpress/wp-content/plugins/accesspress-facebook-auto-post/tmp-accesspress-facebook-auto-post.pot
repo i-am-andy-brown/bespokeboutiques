@@ -1,0 +1,291 @@
+# Copyright (C) 2015 AccessPress Facebook Auto Post
+# This file is distributed under the same license as the AccessPress Facebook Auto Post package.
+msgid ""
+msgstr ""
+"Project-Id-Version: AccessPress Facebook Auto Post 1.1.7\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/accesspress-"
+"facebook-auto-post\n"
+"POT-Creation-Date: 2015-11-27 11:22:48+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2015-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#. #-#-#-#-#  tmp-accesspress-facebook-auto-post.pot (AccessPress Facebook Auto Post 1.1.7)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: accesspress-facebook-auto-post.php:157
+#: accesspress-facebook-auto-post.php:295
+msgid "AccessPress Facebook Auto Post"
+msgstr ""
+
+#: accesspress-facebook-auto-post.php:157
+msgid ""
+"AccessPress Facebook Auto &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"
+"&nbsp; Post"
+msgstr ""
+
+#: accesspress-facebook-auto-post.php:264
+msgid "Logs cleared successfully."
+msgstr ""
+
+#: accesspress-facebook-auto-post.php:282
+msgid "Log Deleted Successfully"
+msgstr ""
+
+#: accesspress-facebook-auto-post.php:318
+msgid "Enable Auto Post"
+msgstr ""
+
+#: accesspress-facebook-auto-post.php:321
+msgid "Yes"
+msgstr ""
+
+#: accesspress-facebook-auto-post.php:322
+msgid "No"
+msgstr ""
+
+#: accesspress-facebook-auto-post.php:381
+msgid "Default Settings Restored Successfully"
+msgstr ""
+
+#: inc/cores/auto-post.php:184
+msgid "Posted Successfully on "
+msgstr ""
+
+#: inc/cores/fb-authorization-callback.php:47
+msgid "Account authorized successfully.Now you can go for posting."
+msgstr ""
+
+#: inc/cores/save-settings.php:9
+msgid "Settings saved successfully"
+msgstr ""
+
+#: inc/header.php:6
+msgid "Follow us for new updates"
+msgstr ""
+
+#: inc/main-page.php:21
+msgid "Settings"
+msgstr ""
+
+#: inc/main-page.php:22
+msgid "Logs"
+msgstr ""
+
+#: inc/main-page.php:23
+msgid "How To Use"
+msgstr ""
+
+#: inc/main-page.php:24
+msgid "About"
+msgstr ""
+
+#: inc/main-page.php:25
+msgid "Upgrade"
+msgstr ""
+
+#: inc/tabs/logs.php:8
+msgid "Are you sure you want to clear all the logs"
+msgstr ""
+
+#: inc/tabs/logs.php:8
+msgid "Clear Log"
+msgstr ""
+
+#: inc/tabs/logs.php:12 inc/tabs/logs.php:20
+msgid "Post ID"
+msgstr ""
+
+#: inc/tabs/logs.php:13 inc/tabs/logs.php:21
+msgid "Status"
+msgstr ""
+
+#: inc/tabs/logs.php:14 inc/tabs/logs.php:22
+msgid "Time"
+msgstr ""
+
+#: inc/tabs/logs.php:15 inc/tabs/logs.php:23
+msgid "Log Details"
+msgstr ""
+
+#: inc/tabs/logs.php:39
+msgid "Go to Post"
+msgstr ""
+
+#: inc/tabs/logs.php:40
+msgid "Are you sure you want to delete this log?"
+msgstr ""
+
+#: inc/tabs/logs.php:44
+msgid "Success"
+msgstr ""
+
+#: inc/tabs/logs.php:44
+msgid "Error"
+msgstr ""
+
+#: inc/tabs/logs.php:54
+msgid "No Logs found"
+msgstr ""
+
+#: inc/tabs/post-settings.php:1
+msgid "Post Settings"
+msgstr ""
+
+#: inc/tabs/post-settings.php:4
+msgid "Enable Auto Publish For:"
+msgstr ""
+
+#: inc/tabs/post-settings.php:18
+msgid "Categories for Auto Post"
+msgstr ""
+
+#: inc/tabs/post-settings.php:22
+msgid "All"
+msgstr ""
+
+#: inc/tabs/post-settings.php:49
+msgid ""
+"Note:Please use command or control key to select multiple options.Not "
+"selecting any of the option will be considered as <strong>All</strong> "
+"selected."
+msgstr ""
+
+#: inc/tabs/post-settings.php:56
+msgid "Save Settings"
+msgstr ""
+
+#: inc/tabs/post-settings.php:57
+msgid "Are you sure you want to restore the default settings?"
+msgstr ""
+
+#: inc/tabs/post-settings.php:57
+msgid "Restore Default Settings"
+msgstr ""
+
+#: inc/tabs/settings.php:3
+msgid "Facebook Account Details"
+msgstr ""
+
+#: inc/tabs/settings.php:19 inc/tabs/settings.php:33
+msgid "Authorize"
+msgstr ""
+
+#: inc/tabs/settings.php:19 inc/tabs/settings.php:33
+msgid "Reauthorize"
+msgstr ""
+
+#: inc/tabs/settings.php:29
+msgid ""
+"It seems that you haven't authorized your account yet.The auto publish for "
+"this account won't work until you will authorize.Please authorize using "
+"below button"
+msgstr ""
+
+#: inc/tabs/settings.php:35
+msgid "Auto Publish"
+msgstr ""
+
+#: inc/tabs/settings.php:40
+msgid "Application ID"
+msgstr ""
+
+#: inc/tabs/settings.php:44
+msgid "Application Secret"
+msgstr ""
+
+#: inc/tabs/settings.php:56
+msgid "Facebook User ID"
+msgstr ""
+
+#: inc/tabs/settings.php:60
+msgid ""
+"Please visit <a href=\"http://findmyfacebookid.com/\" target=\"_blank"
+"\">here</a> to get your facebook ID"
+msgstr ""
+
+#: inc/tabs/settings.php:65
+msgid "Post Message Format"
+msgstr ""
+
+#: inc/tabs/settings.php:69
+msgid ""
+"Please use #post_title,#post_content,#post_excerpt,#post_link,#author_name "
+"for the corresponding post title, post content, post excerpt, post link, "
+"post author name respectively."
+msgstr ""
+
+#: inc/tabs/settings.php:74
+msgid "Post Format"
+msgstr ""
+
+#: inc/tabs/settings.php:77
+msgid "Simple Text Message"
+msgstr ""
+
+#: inc/tabs/settings.php:78
+msgid "Attach Blog Post"
+msgstr ""
+
+#: inc/tabs/settings.php:83
+msgid "Include Image"
+msgstr ""
+
+#: inc/tabs/settings.php:85
+msgid ""
+"Check if you want to include the image in the post while attaching the blog "
+"post."
+msgstr ""
+
+#: inc/tabs/settings.php:89
+msgid "Post Image"
+msgstr ""
+
+#: inc/tabs/settings.php:92
+msgid "Featured Image"
+msgstr ""
+
+#: inc/tabs/settings.php:93
+msgid "Custom Image"
+msgstr ""
+
+#: inc/tabs/settings.php:98
+msgid "Custom Image URL"
+msgstr ""
+
+#: inc/tabs/settings.php:100
+msgid "Enter URL of the image here"
+msgstr ""
+
+#: inc/tabs/settings.php:104
+msgid "Auto Post Pages"
+msgstr ""
+
+#: inc/tabs/settings.php:107
+msgid "Profile Page"
+msgstr ""
+
+#: inc/tabs/settings.php:123
+msgid "Note: Please use control or command key to select multiple options"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid ""
+"https://accesspressthemes.com/wordpress-plugins/accesspress-facebook-auto-"
+"post/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"A plugin to publish your wordpress posts to facebook profile and fan pages"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "AccessPress Themes"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://accesspressthemes.com"
+msgstr ""
